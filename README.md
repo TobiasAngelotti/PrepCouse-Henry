@@ -1,2 +1,1 @@
-# PrepCouse-Henry
-Este es un repositorio de prueba del modulo 2 del PrepCourse de Henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde HitGub a mi computadora.
